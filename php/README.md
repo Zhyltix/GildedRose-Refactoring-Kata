@@ -18,7 +18,7 @@ See [GitHub cloning a repository](https://help.github.com/en/articles/cloning-a-
 create a local copy of this project on your computer.
 
 ```sh
-git clone git@github.com:emilybache/GildedRose-Refactoring-Kata.git
+git clone git@github.com:emilybache/GildedRoseService-Refactoring-Kata.git
 ```
 
 or
@@ -30,7 +30,7 @@ git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
 Install all the dependencies using composer
 
 ```shell script
-cd ./GildedRose-Refactoring-Kata/php
+cd ./GildedRoseService-Refactoring-Kata/php
 composer install
 ```
 

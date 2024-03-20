@@ -2,9 +2,14 @@
 
 declare(strict_types=1);
 
-namespace GildedRose;
+namespace GildedRose\Domains\GlidedRose\ValueObjects;
 
-class Item implements \Stringable
+/**
+ * Class ItemValueObject
+ *
+ * @package GildedRose\Domains\GlidedRose\ValueObjects
+ */
+class ItemValueObject implements \Stringable
 {
     public function __construct(
         public string $name,
